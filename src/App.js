@@ -21,16 +21,12 @@
 // };
 // export default App;
 import React from 'react';
-import { BrowserRouter, Routes, Route } from 'react-router-dom';
 
 const App = () => {
   return (
-    <BrowserRouter basename="/blog-project">
-      <Routes>
-        <Route path="/" element={<h1>✅ Deployed and Working!</h1>} />
-        <Route path="/blog" element={<h2>📝 Blog Route Works</h2>} />
-      </Routes>
-    </BrowserRouter>
+    <div>
+      <h1>✅ GitHub Pages is now working!</h1>
+    </div>
   );
 };
 
