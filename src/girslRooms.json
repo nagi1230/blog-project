@@ -1,0 +1,296 @@
+[ {
+    "owner":"mukesh",
+    "id": "1",
+    "room": "1BHK",
+    "preference": "Fully independent",
+    "house_no":"1201",
+    "landmark":"behna da dhaba",
+     "price":"12000",
+     "contact":"1234567891",
+     "security":"1000",
+     "location":"73 sector"
+  },
+  {
+    "owner":"mukesh",
+    "id": "1",
+    "room": "1BHK",
+    "preference": "Fully independent",
+    "house_no":"1687",
+    "landmark":"near OG gym",
+     "price":"12000",
+     "contact":"1234567891",
+     "security":"1000",
+     "location":"70 sector"
+  },
+  {
+    "owner":"mukesh",
+    "id": "1",
+    "room": "1BHK",
+    "preference": "Fully independent",
+    "house_no":"1687",
+    "landmark":"near OG gym",
+     "price":"12000",
+     "contact":"1234567891",
+     "security":"1000",
+     "location":"70 sector"
+  },
+  {
+    "owner":"mukesh",
+    "id": "1",
+    "room": "1BHK",
+    "preference": "Fully independent",
+    "house_no":"1687",
+    "landmark":"near OG gym",
+     "price":"118500",
+     "contact":"1234567891",
+     "security":"1000",
+     "location":"70 sector"
+  },
+  {
+    "owner":"mukesh",
+    "id": "1",
+    "room": "1BHK",
+    "preference": "Fully independent",
+    "house_no":"1687",
+    "landmark":"near OG gym",
+     "price":"13000",
+     "contact":"1234567891",
+     "security":"1000",
+     "location":"70 sector"
+  },
+  {
+    "owner":"harsh",
+    "id": "2",
+    "room": "2BHK",
+    "preference": "Fully independent",
+    "house_no":"1687",
+    "landmark":"near OG gym",
+     "price":"14000",
+     "contact":"1234567891",
+     "security":"1000",
+     "location":"70 sector"
+  },
+  {
+    "owner":"harsh",
+    "id": "2",
+    "room": "2BHK",
+    "preference": "Fully independent",
+    "house_no":"1687",
+    "landmark":"near OG gym",
+     "price":"118500",
+     "contact":"1234567891",
+     "security":"1000",
+     "location":"70 sector"
+  },
+  {
+    "owner":"harsh",
+    "id": "2",
+    "room": "2BHK",
+    "preference": "Fully independent",
+    "house_no":"1687",
+    "landmark":"near OG gym",
+     "price":"17000",
+     "contact":"1234567891",
+     "security":"1000",
+     "location":"70 sector"
+  },
+  {
+    "owner":"rohit",
+    "id": "2",
+    "room": "2BHK",
+    "preference": "Fully independent",
+    "house_no":"1687",
+    "landmark":"near OG gym",
+     "price":"21000",
+     "contact":"1234567891",
+     "security":"1000",
+     "location":"70 sector"
+  },
+  {
+    "owner":"rohit",
+    "id": "3",
+    "room": "2BHK",
+    "preference": "Fully independent",
+    "house_no":"1687",
+    "landmark":"near OG gym",
+     "price":"23000",
+     "contact":"1234567891",
+     "security":"1000",
+     "location":"70 sector"
+  },
+  {
+    "owner":"rohit",
+    "id": "3",
+    "room": "2BHK",
+    "preference": "Fully independent",
+    "house_no":"1687",
+    "landmark":"near OG gym",
+     "price":"135000",
+     "contact":"1234567891",
+     "security":"1000",
+     "location":"70 sector"
+  },
+  {
+    "owner":"rohit",
+    "id": "3",
+    "room": "3BHK",
+    "preference": "Fully independent",
+    "house_no":"1687",
+    "landmark":"near OG gym",
+     "price":"24500",
+     "contact":"1234567891",
+     "security":"1000",
+     "location":"70 sector"
+  },
+  {
+    "owner":"rohit",
+    "id": "4",
+    "room": "3BHK",
+    "preference": "Fully independent",
+    "house_no":"1687",
+    "landmark":"near OG gym",
+     "price":"23500",
+     "contact":"1234567891",
+     "security":"1000",
+     "location":"70 sector"
+
+  },
+  {
+    "owner":"rohit",
+    "id": "4",
+    "room": "3BHK",
+    "preference": "Fully independent",
+    "house_no":"1687",
+    "landmark":"near OG gym",
+     "price":"16500",
+     "contact":"1234567891",
+     "security":"1000",
+     "location":"70 sector"
+
+  },
+  {
+    "owner":"rohit",
+    "id": "4",
+    "room": "3BHK",
+    "preference": "Fully independent",
+    "house_no":"1687",
+    "landmark":"near OG gym",
+     "price":"26000",
+     "contact":"1234567891",
+     "security":"1000",
+     "location":"70 sector"
+
+  },
+  {
+    "owner":"rohit",
+    "id": "5",
+    "room": "3BHK",
+    "preference": "Fully independent",
+    "house_no":"1687",
+    "landmark":"near OG gym",
+     "price":"20000",
+     "contact":"1234567891",
+     "security":"1000",
+     "location":"70 sector"
+
+  },
+  {
+    "owner":"rohit",
+    "id": "5",
+    "room": "3BHK",
+    "preference": "Fully independent",
+    "house_no":"1687",
+    "landmark":"near OG gym",
+     "price":"24000",
+     "contact":"1234567891",
+     "security":"1000",
+     "location":"70 sector"
+
+  },
+  {
+    "owner":"rohit",
+    "id": "5",
+    "room": "3BHK",
+    "preference": "Fully independent",
+    "house_no":"1687",
+    "landmark":"near OG gym",
+     "price":"23000",
+     "contact":"1234567891",
+     "security":"1000",
+     "location":"70 sector"
+
+  },
+  {
+    "owner":"rohit",
+    "id": "6",
+    "room": "3BHK",
+    "preference": "Fully independent",
+    "house_no":"1687",
+    "landmark":"near OG gym",
+     "price":"23000",
+     "contact":"1234567891",
+     "security":"1000",
+     "location":"70 sector"
+
+  },
+  {
+    "owner":"rohit",
+    "id": "6",
+    "room": "3BHK",
+    "preference": "Fully independent",
+    "house_no":"1687",
+    "landmark":"near OG gym",
+     "price":"18500",
+     "contact":"1234567891",
+     "security":"1000",
+     "location":"70 sector"
+  },
+  {
+    "owner":"rohit",
+    "id": "6",
+    "room": "3BHK",
+    "preference": "fully independent",
+    "house_no":"1687",
+    "landmark":"near OG gym",
+     "price":"18500",
+     "contact":"1234567891",
+     "security":"1000",
+     "location":"70 sector"
+
+  },
+  {
+    "owner":"rohit",
+    "id": "6",
+    "room": "3BHK",
+    "preference": "fully independent",
+    "house_no":"1687",
+    "landmark":"near OG gym",
+     "price":"18500",
+     "contact":"1234567891",
+     "security":"1000"
+  },
+  {
+    "owner":"rohit",
+    "id": "7",
+    "room": "3BHK",
+    "preference": "fully independent",
+    "house_no":"1687",
+    "landmark":"near OG gym",
+     "price":"18500",
+     "contact":"1234567891",
+     "security":"1000",
+     "location":"70 sector"
+  },
+  {
+    "owner":"rohit",
+    "id": "7",
+    "room": "3BHK",
+    "preference": "fully independent",
+    "house_no":"1687",
+    "landmark":"near OG gym",
+     "price":"18500",
+     "contact":"1234567891",
+     "security":"1000",
+     "location":"70 sector"
+  }
+]

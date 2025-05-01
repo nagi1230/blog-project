@@ -1,0 +1,90 @@
+/* 
+.breadcrumb{
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 2px solid #eee;
+    margin-top: -11px;
+}
+.breadcrumb-title{
+    font-size: 20px;
+} */
+
+
+// .breadcrumbs-section{
+//     // bottom: 0.5rem;
+//     margin-top: -30px;
+//     border-bottom: 2px solid #eee;
+
+//     .breadcrumbs{
+//       display: flex;
+//       list-style: none;
+//       // .disabled{
+//       //   a{
+//       //     color:rgba(52, 52, 52) !important;
+//       //   }
+//       // }
+//       .breadcrumb-item{
+//        padding: 1rem;
+//        position: relative;
+//        text-transform: capitalize;
+//       //  color:#fff !important;
+//         a{
+//           text-decoration: none;
+          
+//         }
+//         // .disabled{
+//         //     color:rgba(52, 52, 52) !important;
+//         // }
+//         &::after{
+//           content: "/";
+//           position: absolute;
+//           margin-left: 1rem;
+  
+//         }
+//             &:nth-last-child(1){
+//               &::after{
+//               content: "";
+//               }
+//             }
+     
+//       }
+//     }
+//   }
+
+.breadcrumbs-section {
+  padding: 10px 0; /* Optional: Add padding for the breadcrumb container */
+}
+
+.breadcrumbs {
+  display: flex; /* Arrange items horizontally */
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.breadcrumb-item {
+  font-size: 16px; /* Set a uniform font size */
+  display: inline-flex;
+  align-items: center;
+  gap: 10px; /* Space between text and separator ("/") */
+}
+
+.breadcrumb-item:not(:last-child)::after {
+  content: "/";
+  margin-left: 10px; /* Add space after the separator */
+  color: #ccc; /* Optional: Change separator color */
+}
+
+.breadcrumb-item a {
+  text-decoration: none;
+  color: #007bff; /* Default link color */
+}
+
+.breadcrumb-item a:hover {
+  text-decoration: underline; /* Add underline on hover */
+}
+
+.breadcrumb-item.disabled {
+  color: #666; /* Styling for the last breadcrumb item */
+  pointer-events: none; /* Disable pointer events for the last item */
+}
