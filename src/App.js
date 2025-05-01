@@ -31,7 +31,7 @@ const App = () => {
   return (
     <BrowserRouter basename="/blog-project">
       <Routes>
-        {/* <Route path="/" element={<Portfolio />} /> */}
+        <Route path="/" element={<Portfolio />} />
         <Route path="/blog" element={<Blog />} />
       </Routes>
     </BrowserRouter>
