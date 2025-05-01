@@ -21,22 +21,14 @@
 // };
 // export default App;
 
-
 import React from 'react';
-import { BrowserRouter, Route, Routes } from "react-router-dom";
-import Blog from './Portfolio/Blog.jsx';
-import Portfolio from './Portfolio/Portfolio.jsx';
 
 const App = () => {
   return (
-    <BrowserRouter basename="/blog-project">
-      <Routes>
-        <Route path="/" element={<Portfolio />} />
-        <Route path="/blog" element={<Blog />} />
-      </Routes>
-    </BrowserRouter>
+    <div>
+      <h1>🔥 Hello GitHub Pages!</h1>
+    </div>
   );
 };
 
 export default App;
-
