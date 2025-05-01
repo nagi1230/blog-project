@@ -23,8 +23,9 @@ jobs:
 
       - name: Build the app
         run: |
-         CI='' npm run build
-         cp build/index.html build/404.html
+          CI='' npm run build
+          cp build/index.html build/404.html
+          touch build/.nojekyll  # 👈 This is the critical line
         env:
           CI: false
 
