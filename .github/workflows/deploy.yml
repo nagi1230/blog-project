@@ -1,9 +1,11 @@
+# .github/workflows/deploy.yml
+
 name: React CI/CD
 
 on:
   push:
     branches:
-      - master
+      - main
 
 jobs:
   build-and-deploy:
